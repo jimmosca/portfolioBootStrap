@@ -26,10 +26,11 @@ body{
 #about{
   background-color: #264B51;
 }
+#portfolio{
+  background-color: #2F5D63;
+}
 #navbar{
   background : #166d8a;
-  position: sticky;
-  top:0;
 }
 #name, #profile{
   color: white;
@@ -40,6 +41,15 @@ body{
 }
 .titulo1{
   border-bottom: solid 3px #24b4a5;
+}
+.titulo2{
+  border-bottom: solid 3px #8fedc2;
+}
+.skill{
+  padding: 5%;
+}
+.noob{
+  width:5%;
 }
 .progress{
   height: 30px;
