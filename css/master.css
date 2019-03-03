@@ -6,6 +6,9 @@
 body{
   background-color: #077876;
 }
+h5{
+  border-bottom: solid 3px #fdd741;
+}
 #contenido{
   padding: 0;
 }
@@ -56,11 +59,15 @@ body{
 }
 .retroworld{
 background-image: url("../img/retroworld.png");
+
 background-size: 100%;
 }
 .addictmetica{
 background-image: url("../img/addictmetica.png");
 background-size: 100%;
+}
+.addictmetica h5, .addictmetica p, .empawake h5, .empawake p{
+  color: black;
 }
 .empawake{
   background-image: url("../img/download.jpg");
