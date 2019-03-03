@@ -54,3 +54,15 @@ body{
 .progress{
   height: 30px;
 }
+.retroworld{
+background-image: url("../img/retroworld.png");
+background-size: 100%;
+}
+.addictmetica{
+background-image: url("../img/addictmetica.png");
+background-size: 100%;
+}
+.empawake{
+  background-image: url("../img/download.jpg");
+  background-size: 100%;
+}
